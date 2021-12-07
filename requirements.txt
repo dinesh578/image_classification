@@ -1,0 +1,10 @@
+opencv-python
+pandas 
+numpy 
+tensorflow == 2.2.1
+sklearn
+matplotlib
+seaborn 
+tf-nightly-gpu
+glob2
+flask
